@@ -1,3 +1,5 @@
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Igornalves" alt="Igornalves" /></p>
+
 ## Olá sou Igor Nascimento 👋 <br> Sou Estudante de Programação e Desenvolvedor de Software 💻
 Atualmente estou aprendendo e trabalhando com varias linguagens como:
 
