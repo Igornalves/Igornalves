@@ -23,7 +23,7 @@ Estou me desenvolvendo e estudando no intuito de me torna o melhor programador n
 ## Redes Socias 🤝
 Vc tambem pode ver minhas redes sociais:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Igor_Nascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-nascimento-a6362b294/)](https://www.linkedin.com/in/igor-nascimento-a6362b294/)
+[![Linkedin Badge](https://img.shields.io/badge/-Igor_Nascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-nasimento)](https://www.linkedin.com/in/igor-nasimento)
 [![Gmail Badge](https://img.shields.io/badge/-igornalves08@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igornalves08@gmail.com)](mailto:igornalves08@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-igornalves-a51099?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_igornalves_/?hl=pt-br)](https://instagram.com/_igornalves_)
 
