@@ -29,7 +29,9 @@ Vc tambem pode ver minhas redes sociais:
 
 ## Stats 💻 GitHub 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Igornalves&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+<!--![Github Stats](https://github-readme-stats.vercel.app/api?username=Igornalves&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)-->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Igornalves&show_icons=true&locale=en" alt="Igornalves" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Igornalves&" alt="Igornalves" /></p> 
 
@@ -37,6 +39,6 @@ Vc tambem pode ver minhas redes sociais:
 
 Atualizações de linguagens que estou aprendendo e que trabalho no momento atual:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igornalves&hide=TeX&layout=compact) 
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igornalves&hide=TeX&layout=compact) -->
 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Igornalves&show_icons=true&locale=en&layout=compact" alt="Igornalves"/>
