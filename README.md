@@ -31,8 +31,12 @@ Vc tambem pode ver minhas redes sociais:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Igornalves&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Igornalves&" alt="Igornalves" /></p> 
+
 ## GitHub Status Linguagens 📚
 
 Atualizações de linguagens que estou aprendendo e que trabalho no momento atual:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igornalves&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igornalves&hide=TeX&layout=compact) 
+
+
