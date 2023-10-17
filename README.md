@@ -29,7 +29,7 @@ Vc tambem pode ver minhas redes sociais:
 
 ## Stats 💻 GitHub 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=igornalves&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Igornalves&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 
 ## GitHub Status Linguagens 📚
 
