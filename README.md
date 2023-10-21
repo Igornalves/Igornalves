@@ -32,11 +32,9 @@ Vc tambem pode ver minhas redes sociais:
 
 <!--![Github Stats](https://github-readme-stats.vercel.app/api?username=Igornalves&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)-->
 
-<br>
-
-<div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Igornalves&show_icons=true&locale=en&theme=algolia" alt="Igornalves" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Igornalves&theme=algolia" alt="Igornalves" />
+<div align="left"><br>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Igornalves&show_icons=true&locale=en&theme=algolia" alt="Igornalves" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Igornalves&theme=algolia" alt="Igornalves" />
 </div>
 
 <br>
