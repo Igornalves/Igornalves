@@ -32,9 +32,14 @@ Vc tambem pode ver minhas redes sociais:
 
 <!--![Github Stats](https://github-readme-stats.vercel.app/api?username=Igornalves&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Igornalves&show_icons=true&locale=en&theme=algolia" alt="Igornalves" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Igornalves&theme=algolia" alt="Igornalves" /></p> 
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Igornalves&show_icons=true&locale=en&theme=algolia" alt="Igornalves" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Igornalves&theme=algolia" alt="Igornalves" />
+</div>
+
+<br>
 
 ## GitHub Status Linguagens 📚
 
@@ -42,4 +47,4 @@ Atualizações de linguagens que estou aprendendo e que trabalho no momento atua
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igornalves&hide=TeX&layout=compact) -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Igornalves&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Igornalves"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Igornalves&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Igornalves"/>
