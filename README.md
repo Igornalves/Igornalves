@@ -34,7 +34,7 @@ Vc tambem pode ver minhas redes sociais:
 
 <br>
 
-<div align="center">
+<div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Igornalves&show_icons=true&locale=en&theme=algolia" alt="Igornalves" />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Igornalves&theme=algolia" alt="Igornalves" />
 </div>
