@@ -45,4 +45,4 @@ Atualizações de linguagens que estou aprendendo e que trabalho no momento atua
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igornalves&hide=TeX&layout=compact) -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Igornalves&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Igornalves"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Igornalves&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Igornalves"/>
