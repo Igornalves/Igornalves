@@ -12,8 +12,8 @@ Atualmente estou aprendendo e trabalhando com varias linguagens como:
   <img align="center" alt="nodejs" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="React" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="C" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <!--<img align="center" alt="java" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">-->
-  <img align="center" alt="java" width="70" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="java" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <!-- <img align="center" alt="java" width="70" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"> -->
   <img align="center" alt="Python" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="git" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <!--<img align="center" alt="mysql" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">-->
