@@ -1,10 +1,11 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Igornalves" alt="Igornalves" /></p>
 
-<h1 align="center"> Olá sou Igor Nascimento 👋 <br> Sou Estudante de Programação e Desenvolvedor de Software 💻</h1>
+<h1 align="center"> 👓 Um pouco sobre mim 👋 </h1>
 
-Atualmente estou aprendendo e trabalhando com varias linguagens como:
+ <p>🎓 Atualmente estou aprendendo e trabalhando com varias linguagens como:</p>
 
 <div style="display: inline_block"><br>
+
   <img align="center" alt="HTML" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,16 +23,20 @@ Atualmente estou aprendendo e trabalhando com varias linguagens como:
 
 <br>
 
-Estou me desenvolvendo e estudando no intuito de me torna o melhor programador na área de desenvolvimento de software.
+<p> 💼 Estou me desenvolvendo e estudando no intuito de me torna o melhor programador na área de desenvolvimento de software. </p>
 
-## Redes Socias 🤝
+## 🌎 Redes Socias
 Vc tambem pode ver minhas redes sociais:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Igor_Nascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-nasimento)](https://www.linkedin.com/in/igor-nasimento)
 [![Gmail Badge](https://img.shields.io/badge/-igornalves08@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igornalves08@gmail.com)](mailto:igornalves08@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-igornalves-a51099?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_igornalves_/?hl=pt-br)](https://instagram.com/_igornalves_)
 
-## Stats 💻 GitHub 
+## Ferramentas de desenvolvimento
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## Estatísticas 💻 GitHub 
 
 <!--![Github Stats](https://github-readme-stats.vercel.app/api?username=Igornalves&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)-->
 
