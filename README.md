@@ -32,7 +32,7 @@ Vc tambem pode ver minhas redes sociais:
 [![Gmail Badge](https://img.shields.io/badge/-igornalves08@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igornalves08@gmail.com)](mailto:igornalves08@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-igornalves-a51099?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_igornalves_/?hl=pt-br)](https://instagram.com/_igornalves_)
 
-## Ferramentas de desenvolvimento
+## 🛠️ Ferramentas de desenvolvimento
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -47,7 +47,7 @@ Vc tambem pode ver minhas redes sociais:
 
 <br>
 
-## GitHub Status Linguagens 📚
+## 📚 GitHub Status Linguagens 
 
 Atualizações de linguagens que estou aprendendo e que trabalho no momento atual:
 
