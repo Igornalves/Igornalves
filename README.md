@@ -2,7 +2,7 @@
 
 <h1 align="center"> 👓 Um pouco sobre mim 👋 </h1>
 
- <p>🎓 Atualmente estou aprendendo e trabalhando com varias linguagens como:</p>
+ <p>👨‍💻 Atualmente estou trabalhando com varias linguagens como:</p>
 
 <div style="display: inline_block"><br>
 
@@ -25,14 +25,14 @@
 
 <br>
 
-<p> 💼 Estou me desenvolvendo e estudando no intuito de me torna o melhor programador na área de desenvolvimento de software. </p>
+<p> 💼 Estou desenvolvendo as minhas habilidades no intuito me torna um ótimo programador na área de desenvolvimento de software. </p>
 
 ## 🌎 Redes Socias
 Vc tambem pode ver minhas redes sociais:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Igor_Nascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-nasimento)](https://www.linkedin.com/in/igor-nasimento)
 [![Gmail Badge](https://img.shields.io/badge/-igornalves08@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igornalves08@gmail.com)](mailto:igornalves08@gmail.com)
-<!-- [![Instagram Badge](https://img.shields.io/badge/-igornalves-a51099?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_igornalves_/?hl=pt-br)](https://instagram.com/_igornalves_) -->
+[![Instagram Badge](https://img.shields.io/badge/-igornalves-a51099?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_igornalves_/?hl=pt-br)](https://instagram.com/_igornalves_)
 
 ## 🛠️ Ferramentas de desenvolvimento
 
@@ -51,7 +51,7 @@ Vc tambem pode ver minhas redes sociais:
 
 ## 📚 GitHub Status Linguagens 
 
-Atualizações de linguagens que estou aprendendo e que trabalho no momento atual:
+Atualizações de linguagens que estou trabalhando no momento atual:
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igornalves&hide=TeX&layout=compact) -->
 
