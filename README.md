@@ -70,8 +70,8 @@ class MySkills extends Desenvolvedor {
 ## GitHub Status 📚 
 
 <div align="left"><br>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=igornalves&show_icons=true&locale=en&theme=algolia" alt="Igornalves" />
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Igornalves&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Igornalves"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=igornalves&show_icons=true&locale=en&theme=algolia" alt="Igornalves" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Igornalves&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Igornalves"/>
 <!-- <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=igornalves&theme=algolia" alt="Igornalves" /> -->
 </div>
 
