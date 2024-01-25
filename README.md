@@ -59,16 +59,20 @@ class MySkills extends Desenvolvedor {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-CC0000.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache_Maven-993366.svg?style=for-the-badge&logo=ApacheMaven&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/springboot-00CC00.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/spring_boot-00CC00.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![python](https://img.shields.io/badge/python-000092?style=for-the-badge&logo=python&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/dbeaver-855E42.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![postgreSQL](https://img.shields.io/badge/postgresql-3366FF?style=for-the-badge&logo=postgresql&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0015d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<h2>Contato 📞</h2> 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0048d7?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-nasimento)](https://www.linkedin.com/in/igor-nasimento)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c30438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:igornalves08@gmail.com)](mailto:igornalves08@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-a60099?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_igornalves_/?hl=pt-br)](https://instagram.com/_igornalves_)
 
 ## GitHub Status 📚 
-
 <div align="left"><br>
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=igornalves&show_icons=true&locale=en&theme=algolia" alt="Igornalves" />
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Igornalves&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Igornalves"/>
@@ -80,14 +84,6 @@ class MySkills extends Desenvolvedor {
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=igornalves&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
     </a>
 </p>
-
-<h2>Contato 📞</h2> 
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0048d7?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-nasimento)](https://www.linkedin.com/in/igor-nasimento)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c30438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:igornalves08@gmail.com)](mailto:igornalves08@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-a60099?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_igornalves_/?hl=pt-br)](https://instagram.com/_igornalves_)
-
-
 
 <!-- <div style="display: inline_block"><br>
 
