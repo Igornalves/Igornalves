@@ -32,13 +32,13 @@ class MySkills extends Desenvolvedor {
 
 - **Analise e Desenvovimento de Sistemas**  - Uninassau (Fevereiro/2023 - cursando)
 
-<h2>O que você encontrará aqui? 👀</h2>
+<!-- <h2>O que você encontrará aqui? 👀</h2>
 
 <p>Meu GitHub estará organizada da Seguinte Forma: o <strong>nome do repositório</strong> e <strong>README</strong> que terá informações detalhadas do repositório como pro exemplo:</p>
 
 - **Projeto_Hospitalar-Poo**: Este um Repositório no qual é utilizado a linguagem java para fazer um pequeno e desafiador projeto de um sistema de hospital de forma que cada classe e entidade ficasse boa.
 
-- **Projeto_WallPaper-WL**: Projeto com o intuito de desenvolver um site voltado para papel de parede de pc com obras de tipo diferente de midias existe, o projeeto serve como forma de treinamento para melhora minha habilidades em programação na area de Front-End. </p>
+- **Projeto_WallPaper-WL**: Projeto com o intuito de desenvolver um site voltado para papel de parede de pc com obras de tipo diferente de midias existe, o projeeto serve como forma de treinamento para melhora minha habilidades em programação na area de Front-End. </p> -->
 
 <h2>Tecnologias atuais 💻</h2>
 
