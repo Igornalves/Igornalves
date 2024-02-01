@@ -57,14 +57,16 @@ class MySkills extends Desenvolvedor {
 ![java Script](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![node.js](https://img.shields.io/badge/Node.js-009900?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-CC0000.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-CC0000.svg?style=for-the-badge&logo=Java&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache_Maven-993366.svg?style=for-the-badge&logo=ApacheMaven&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/spring_boot-00CC00.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![python](https://img.shields.io/badge/python-000092?style=for-the-badge&logo=python&logoColor=white)
+![python](https://img.shields.io/badge/python-F2CB05?style=for-the-badge&logo=python&logoColor=black)
 ![DBeaver](https://img.shields.io/badge/dbeaver-855E42.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
-![postgreSQL](https://img.shields.io/badge/postgresql-3366FF?style=for-the-badge&logo=postgresql&logoColor=black)
+![postgreSQL](https://img.shields.io/badge/postgresql-023E73?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0015d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![linux](https://img.shields.io/badge/linux-F6C904.svg?style=for-the-badge&logo=linux&logoColor=black)
+![windows](https://img.shields.io/badge/windows-035AA6.svg?style=for-the-badge&logo=windows&logoColor=white)
 
 <h2>Contato 📞</h2> 
 
