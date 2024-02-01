@@ -60,7 +60,7 @@ class MySkills extends Desenvolvedor {
 ![Java](https://img.shields.io/badge/java-CC0000.svg?style=for-the-badge&logo=Java&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache_Maven-993366.svg?style=for-the-badge&logo=ApacheMaven&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/spring_boot-00CC00.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![python](https://img.shields.io/badge/python-F2CB05?style=for-the-badge&logo=python&logoColor=black)
+![python](https://img.shields.io/badge/python-000092?style=for-the-badge&logo=python&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/dbeaver-855E42.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![postgreSQL](https://img.shields.io/badge/postgresql-023E73?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
