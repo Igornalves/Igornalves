@@ -40,16 +40,16 @@ class MySkills extends Desenvolvedor {
 
 - **Projeto_WallPaper-WL**: Projeto com o intuito de desenvolver um site voltado para papel de parede de pc com obras de tipo diferente de midias existe, o projeeto serve como forma de treinamento para melhora minha habilidades em programação na area de Front-End. </p> -->
 
-<h2>Tecnologias atuais 💻</h2>
+<h2>Tecnologias Usadas nos Repositórios 💻</h2>
 
-- Linguagem: **Java,Python,JavaScript**
+<!-- - Linguagem: **Java,Python,JavaScript**
 - Sistema Operacional: **Windows/Linux**
 - Frameworks: **Spring Boot, React, Sass**
 - IDEA: **Vs.code, DBeaver**
 - Bibliotecas: **Apache Maven, Hibernate** 
-- Banco de Dados: **PostgreSQL**
+- Banco de Dados: **PostgreSQL** -->
 
-<br>
+<!-- <br> -->
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -60,6 +60,7 @@ class MySkills extends Desenvolvedor {
 ![Java](https://img.shields.io/badge/java-CC0000.svg?style=for-the-badge&logo=Java&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache_Maven-993366.svg?style=for-the-badge&logo=ApacheMaven&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/spring_boot-00CC00.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-84A672.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![python](https://img.shields.io/badge/python-000092?style=for-the-badge&logo=python&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/dbeaver-855E42.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![postgreSQL](https://img.shields.io/badge/postgresql-023E73?style=for-the-badge&logo=postgresql&logoColor=white)
