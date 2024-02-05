@@ -28,9 +28,9 @@ class MySkills extends Desenvolvedor {
 <p><strong>Iniciei minha jornada na área no ano de 2023</strong> em uma empresa de trabalha na área odontologica de forma que lá conseguir aprender bastante coisa sobre mercado, tecnologia e administração de dados e equipamentos.</p> 
 <p>Em novembro/2023 embarquei em um desafio atual, trabalhar com desenvovimento web na area de programação do lado do BackEnd, a onde aqui posto em repositorios algums dos conhevimento adquiridos em meus estudos.</p>
 
-<h2> Formação Academica e Técnica: </h2>
+<!-- <h2> Formação Academica e Técnica: </h2>
 
-- **Analise e Desenvovimento de Sistemas**  - Uninassau (Fevereiro/2023 - cursando)
+- **Analise e Desenvovimento de Sistemas**  - Uninassau (Fevereiro/2023 - cursando) -->
 
 <!-- <h2>O que você encontrará aqui? 👀</h2>
 
@@ -48,8 +48,6 @@ class MySkills extends Desenvolvedor {
 - IDEA: **Vs.code, DBeaver**
 - Bibliotecas: **Apache Maven, Hibernate** 
 - Banco de Dados: **PostgreSQL** -->
-
-<br> 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
