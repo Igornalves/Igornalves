@@ -4,29 +4,29 @@
 
 <h1 align="left">Olá, pessoas! ☕ </h1>
 
-```JavaScript
-import Desenvolvedor from "IgorNascimento";
+```javascript
+import { Desenvolvedor } from "IgorNascimento";
 
 class SobreMim extends Desenvolvedor {
-  nome = "Igor Nascimento";
+  Name = "Igor Nascimento";
   area = "Software Enginner";
-  trabalho = "BackEnd web";
+  Work = "BackEnd web";
   local = "Home Office or face-to-face work";
 }
 
 class MySkills extends Desenvolvedor {
-  linguage = ["Java","JavaScript","Python"];
+  linguage = ["Java","JavaScript","node.js","Python"];
   frameworks = ["Spring Boot", "React", "Apache Maven", "Hibernate"];
-  bancoDeDados = ["Postgresql"];
+  DataBases = ["Postgresql","MySQL"];
 }
 ```
 
-<h2>Um Pouco Sobre mim 👩‍💻</h2>
+<!-- <h2>Um Pouco Sobre mim 👩‍💻</h2>
 
 <p>Como já deve ter visto, meu nome é Igor e tenho 20 anos. Moro em Teresina (Cidade Capital), no estado do Piaui.</p>
 <p>Sou uma pessoa muito curiosa para saber sobre tecnologias e inovações, de forma que sempre gostei de mexer em computadores em sistemas</p>
 <p><strong>Iniciei minha jornada na área no ano de 2023</strong> em uma empresa de trabalha na área odontologica de forma que lá conseguir aprender bastante coisa sobre mercado, tecnologia e administração de dados e equipamentos.</p> 
-<p>Em novembro/2023 embarquei em um desafio atual, trabalhar com desenvovimento web na area de programação do lado do BackEnd, a onde aqui posto em repositorios algums dos conhevimento adquiridos em meus estudos.</p>
+<p>Em novembro/2023 embarquei em um desafio atual, trabalhar com desenvovimento web na area de programação do lado do BackEnd, a onde aqui posto em repositorios algums dos conhevimento adquiridos em meus estudos.</p> -->
 
 <!-- <h2> Formação Academica e Técnica: </h2>
 
