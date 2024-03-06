@@ -21,25 +21,6 @@ class MySkills extends Desenvolvedor {
 }
 ```
 
-<!-- <h2>Um Pouco Sobre mim 👩‍💻</h2>
-
-<p>Como já deve ter visto, meu nome é Igor e tenho 20 anos. Moro em Teresina (Cidade Capital), no estado do Piaui.</p>
-<p>Sou uma pessoa muito curiosa para saber sobre tecnologias e inovações, de forma que sempre gostei de mexer em computadores em sistemas</p>
-<p><strong>Iniciei minha jornada na área no ano de 2023</strong> em uma empresa de trabalha na área odontologica de forma que lá conseguir aprender bastante coisa sobre mercado, tecnologia e administração de dados e equipamentos.</p> 
-<p>Em novembro/2023 embarquei em um desafio atual, trabalhar com desenvovimento web na area de programação do lado do BackEnd, a onde aqui posto em repositorios algums dos conhevimento adquiridos em meus estudos.</p> -->
-
-<!-- <h2> Formação Academica e Técnica: </h2>
-
-- **Analise e Desenvovimento de Sistemas**  - Uninassau (Fevereiro/2023 - cursando) -->
-
-<!-- <h2>O que você encontrará aqui? 👀</h2>
-
-<p>Meu GitHub estará organizada da Seguinte Forma: o <strong>nome do repositório</strong> e <strong>README</strong> que terá informações detalhadas do repositório como pro exemplo:</p>
-
-- **Projeto_Hospitalar-Poo**: Este um Repositório no qual é utilizado a linguagem java para fazer um pequeno e desafiador projeto de um sistema de hospital de forma que cada classe e entidade ficasse boa.
-
-- **Projeto_WallPaper-WL**: Projeto com o intuito de desenvolver um site voltado para papel de parede de pc com obras de tipo diferente de midias existe, o projeeto serve como forma de treinamento para melhora minha habilidades em programação na area de Front-End. </p> -->
-
 ## GitHub Status 📚 
 
 <div align="left">
@@ -49,13 +30,6 @@ class MySkills extends Desenvolvedor {
 </div>
 
 <h2>Tecnologias e Habilidades 💻</h2>
-
-<!-- - Linguagem: **Java,Python,JavaScript**
-- Sistema Operacional: **Windows/Linux**
-- Frameworks: **Spring Boot, React, Sass**
-- IDEA: **Vs.code, DBeaver**
-- Bibliotecas: **Apache Maven, Hibernate** 
-- Banco de Dados: **PostgreSQL** -->
 
 <div style="display: inline_block">
   <img align="center" alt="HTML5" height="49" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
