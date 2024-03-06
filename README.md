@@ -1,9 +1,7 @@
-<img  align="right" src="https://komarev.com/ghpvc/?username=Igornalves" alt="Igornalves" />
-
 <p align="left">
+<img  align="left" src="https://komarev.com/ghpvc/?username=Igornalves" alt="Igornalves" />
 <h1>Olá, pessoas! ☕ </h1>
 </p>
-
 
 ```javascript
 import { Desenvolvedor } from "IgorNascimento";
