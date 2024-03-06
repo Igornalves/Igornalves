@@ -10,7 +10,7 @@ import { Desenvolvedor } from "IgorNascimento";
 class SobreMim extends Desenvolvedor {
   Name = "Igor Nascimento";
   area = "Software Enginner";
-  Work = "BackEnd web";
+  Work = "fullstack web";
   local = "Home Office or face-to-face work";
 }
 
@@ -40,7 +40,15 @@ class MySkills extends Desenvolvedor {
 
 - **Projeto_WallPaper-WL**: Projeto com o intuito de desenvolver um site voltado para papel de parede de pc com obras de tipo diferente de midias existe, o projeeto serve como forma de treinamento para melhora minha habilidades em programação na area de Front-End. </p> -->
 
-<h2>Tecnologias Usadas nos Repositórios 💻</h2>
+## GitHub Status 📚 
+
+<div align="left">
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=igornalves&show_icons=true&locale=en&theme=algolia" alt="Igornalves" />
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Igornalves&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Igornalves"/>
+<!-- <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=igornalves&theme=algolia" alt="Igornalves" /> -->
+</div>
+
+<h2>Tecnologias e Habilidades 💻</h2>
 
 <!-- - Linguagem: **Java,Python,JavaScript**
 - Sistema Operacional: **Windows/Linux**
@@ -49,7 +57,24 @@ class MySkills extends Desenvolvedor {
 - Bibliotecas: **Apache Maven, Hibernate** 
 - Banco de Dados: **PostgreSQL** -->
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<div style="display: inline_block">
+  <img align="center" alt="HTML5" height="49" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="49" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="49" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="49" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="49" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <!-- <img align="center" alt="nodejs" height="49" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> -->
+  <img align="center" alt="C" height="49" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="java" height="49" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="49" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="django" height="49" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="git" height="49" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="mysql" height="49" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSql" height="49" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> 
+
+</div>
+
+<!-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![java Script](https://img.shields.io/badge/JavaScript-FFCC00?style=for-the-badge&logo=javascript&logoColor=black)
@@ -66,9 +91,10 @@ class MySkills extends Desenvolvedor {
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0015d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-F6C904.svg?style=for-the-badge&logo=linux&logoColor=black)
-![windows](https://img.shields.io/badge/windows-035AA9.svg?style=for-the-badge&logo=windows&logoColor=white)
+![windows](https://img.shields.io/badge/windows-035AA9.svg?style=for-the-badge&logo=windows&logoColor=white) -->
 <!-- ![Apache Maven](https://img.shields.io/badge/Apache_Maven-993366.svg?style=for-the-badge&logo=ApacheMaven&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-84A650.svg?style=for-the-badge&logo=Hibernate&logoColor=white) -->
+
 
 <h2>Contato 📞</h2> 
 
@@ -76,32 +102,10 @@ class MySkills extends Desenvolvedor {
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c30438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:igornalves08@gmail.com)](mailto:igornalves08@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-a60099?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_igornalves_/?hl=pt-br)](https://instagram.com/_igornalves_)
 
-## GitHub Status 📚 
-<div align="left"><br>
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=igornalves&show_icons=true&locale=en&theme=algolia" alt="Igornalves" />
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Igornalves&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Igornalves"/>
-<!-- <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=igornalves&theme=algolia" alt="Igornalves" /> -->
-</div>
+## Grafico de contribuicao nos repositorios 👨‍💻
 
 <p align="left">
     <a>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=igornalves&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
     </a>
 </p>
-
-<!-- <div style="display: inline_block"><br>
-
-  <img align="center" alt="HTML5" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="nodejs" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="C" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="java" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Python" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="React" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="git" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="TypeScript" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="mysql" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-   <img align="center" alt="PostgreSql" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> 
-
-</div> -->
