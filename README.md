@@ -45,7 +45,9 @@ class MySkills extends Desenvolvedor {
   <img align="center" alt="django" height="49" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="git" height="49" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="mysql" height="49" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSql" height="49" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> 
+  <img align="center" alt="PostgreSql" height="49" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">  
+  <img align="center" alt="windows" height="49" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"> 
+  <img align="center" alt="linux" height="49" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> 
 
 </div>
 
