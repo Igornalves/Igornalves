@@ -75,7 +75,6 @@ class MySkills extends Desenvolvedor {
 <h2>Contato 📞</h2> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0048d7?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-nasimento)](https://www.linkedin.com/in/igor-nasimento)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c30438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:igornalves08@gmail.com)](mailto:igornalves08@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-a60099?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_igornalves_/?hl=pt-br)](https://instagram.com/_igornalves_)
 
 ## Grafico de Contribuicao nos Repositorios 👨‍💻
