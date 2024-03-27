@@ -1,34 +1,30 @@
 <p align="left">
 <img  align="left" src="https://komarev.com/ghpvc/?username=Igornalves" alt="Igornalves" />
-<h1>Olá, pessoas! ☕ </h1>
+<br>
+
+<h1>Hi, people! ☕ </h1>
 </p>
 
 ```javascript
-import { Desenvolvedor } from "IgorNascimento";
+import { Developer } from "IgorNascimento";
 
-class SobreMim extends Desenvolvedor {
+class AboutMe extends Developer {
   Name = "Igor Nascimento";
   area = "Software Enginner";
   Work = "fullstack web";
   local = "Home Office or face-to-face work";
-}
-
-class MySkills extends Desenvolvedor {
-  linguage = ["Java","JavaScript","node.js","Python"];
-  frameworks = ["Spring Boot", "React", "fastfy", "django"];
-  DataBases = ["Postgresql","MySQL"];
 }
 ```
 
 ## GitHub Status 📚 
 
 <div align="left">
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=igornalves&show_icons=true&locale=en&theme=algolia" alt="Igornalves" />
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Igornalves&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Igornalves"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=igornalves&show_icons=true&locale=en&theme=algolia" alt="Igornalves" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Igornalves&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Igornalves"/>
 <!-- <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=igornalves&theme=algolia" alt="Igornalves" /> -->
 </div>
 
-<h2>Tecnologias e Habilidades 💻</h2>
+<h2>Technologies and Skills 💻</h2>
 
 <div style="display: inline_block">
   <img align="center" alt="HTML5" height="49" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -71,15 +67,14 @@ class MySkills extends Desenvolvedor {
 <!-- ![Apache Maven](https://img.shields.io/badge/Apache_Maven-993366.svg?style=for-the-badge&logo=ApacheMaven&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-84A650.svg?style=for-the-badge&logo=Hibernate&logoColor=white) -->
 
-
-<h2>Contato 📞</h2> 
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0048d7?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-nasimento)](https://www.linkedin.com/in/igor-nasimento)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-a60099?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_igornalves_/?hl=pt-br)](https://instagram.com/_igornalves_)
-
-## Grafico de Contribuicao nos Repositorios 👨‍💻
+## Contribution Chart in Repositories 👨‍💻
 <p align="left">
     <a>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=igornalves&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
     </a>
 </p>
+
+<h2>Contacts 📞</h2> 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0048d7?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-nasimento)](https://www.linkedin.com/in/igor-nasimento)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-a60099?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_igornalves_/?hl=pt-br)](https://instagram.com/_igornalves_)
