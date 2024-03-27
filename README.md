@@ -5,16 +5,7 @@
 <h1>Hi, people! ☕ </h1>
 </p>
 
-```javascript
-import { Developer } from "IgorNascimento";
-
-class AboutMe extends Developer {
-  Name = "Igor Nascimento";
-  area = "Software Enginner";
-  Work = "fullstack web";
-  local = "Home Office or face-to-face work";
-}
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Atomic+Age&weight=500&size=25&pause=1000&color=FF7F00&background=49A6FF00&center=true&vCenter=true&random=false&width=900&height=150&lines=Hi%2C+my+name+is+Igor+Nascimento+!!!;I+am+from+Brazil+!!!;I+Study+Analysis+and+systems+development+at+Uninassau+!!!)](https://git.io/typing-svg)
 
 ## GitHub Status 📚 
 
@@ -32,7 +23,6 @@ class AboutMe extends Developer {
   <img align="center" alt="JavaScript" height="49" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="49" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="49" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <!-- <img align="center" alt="nodejs" height="49" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> -->
   <img align="center" alt="C" height="49" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="java" height="49" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="SpringBoot" height="49" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
