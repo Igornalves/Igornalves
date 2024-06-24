@@ -5,7 +5,7 @@
 <h1>Hi, people! ☕ </h1>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Atomic+Age&weight=500&size=25&pause=1000&color=FF7F00&background=49A6FF00&center=true&vCenter=true&random=false&width=900&height=150&lines=Hi%2C+my+name+is+Igor+Nascimento+!!!;I+am+from+Brazil+!!!;I+Study+Analysis+and+systems+development+at+Uninassau+!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Atomic+Age&weight=500&size=25&pause=1000&color=FF7F00&background=49A6FF00&center=true&vCenter=true&random=false&width=900&height=150&lines=Hi%2C+my+name+is+Igor+Nascimento+!!!;I+am+from+Brazil+!!!;I'm+a+software+developer+and+systems+analyst!!!)](https://git.io/typing-svg)
 
 ## GitHub Status 📚 
 
