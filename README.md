@@ -5,7 +5,7 @@
 <h1>Hi, people! ☕ </h1>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Atomic+Age&weight=500&size=25&pause=1000&color=FF7F00&background=49A6FF00&center=true&vCenter=true&random=false&width=900&height=150&lines=Hi%2C+my+name+is+Igor+Nascimento+!!!;I+am+from+Brazil+!!!;I'm+a+software+developer+and+systems+analyst!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Atomic+Age&weight=500&size=25&pause=1000&color=FF7F00&background=49A6FF00&center=true&vCenter=true&random=false&width=900&height=150&lines=Hi%2C+my+name+is+Igor+Nascimento+!!!;I+am+from+Brazil+!!!;I'm+a+fullstack+software+developer!!!)](https://git.io/typing-svg)
 
 ## GitHub Status 📚 
 
@@ -20,19 +20,19 @@
 <div style="display: inline_block">
   <img align="center" alt="HTML5" height="49" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="49" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="49" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="49" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="49" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="C" height="49" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="java" height="49" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="SpringBoot" height="49" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Python" height="49" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="django" height="49" width="51" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="git" height="49" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="mysql" height="49" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSql" height="49" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">  
-  <img align="center" alt="windows" height="49" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg"> 
-  <img align="center" alt="linux" height="49" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="JavaScript" height="49" width="51" src="https://skillicons.dev/icons?i=javascript">
+  <img align="center" alt="TypeScript" height="49" width="51" src="https://skillicons.dev/icons?i=typescript">
+  <img align="center" alt="React" height="49" width="51" src="https://skillicons.dev/icons?i=react">
+  <img align="center" alt="Python" height="49" width="51" src="https://skillicons.dev/icons?i=figma">
+  <img align="center" alt="django" height="49" width="51" src="https://skillicons.dev/icons?i=firebase">
+  <img align="center" alt="C" height="49" width="51" src="https://skillicons.dev/icons?i=nodejs">
+  <img align="center" alt="java" height="49" width="51" src="https://skillicons.dev/icons?i=java">
+  <img align="center" alt="SpringBoot" height="49" width="51" src="https://skillicons.dev/icons?i=spring">
+  <img align="center" alt="mysql" height="49" width="51" src="https://skillicons.dev/icons?i=mysql">
+  <img align="center" alt="PostgreSql" height="49" width="51" src="https://skillicons.dev/icons?i=postgres">  
+  <img align="center" alt="linux" height="49" width="51" src="https://skillicons.dev/icons?i=linux">
+  <img align="center" alt="git" height="49" width="51" src="https://skillicons.dev/icons?i=git">
+  <img align="center" alt="windows" height="49" width="51" src="https://skillicons.dev/icons?i=docker"> 
 
 </div>
 
