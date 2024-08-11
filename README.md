@@ -23,9 +23,9 @@
   <img align="center" alt="JavaScript" height="49" width="51" src="https://skillicons.dev/icons?i=javascript">
   <img align="center" alt="TypeScript" height="49" width="51" src="https://skillicons.dev/icons?i=typescript">
   <img align="center" alt="React" height="49" width="51" src="https://skillicons.dev/icons?i=react">
+  <img align="center" alt="C" height="49" width="51" src="https://skillicons.dev/icons?i=next">
   <img align="center" alt="Python" height="49" width="51" src="https://skillicons.dev/icons?i=figma">
   <img align="center" alt="django" height="49" width="51" src="https://skillicons.dev/icons?i=firebase">
-  <img align="center" alt="C" height="49" width="51" src="https://skillicons.dev/icons?i=nodejs">
   <img align="center" alt="java" height="49" width="51" src="https://skillicons.dev/icons?i=java">
   <img align="center" alt="SpringBoot" height="49" width="51" src="https://skillicons.dev/icons?i=spring">
   <img align="center" alt="mysql" height="49" width="51" src="https://skillicons.dev/icons?i=mysql">
