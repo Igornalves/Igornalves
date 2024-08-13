@@ -67,4 +67,4 @@
 <h2>Contacts 📞</h2> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0048d7?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-nasimento)](https://www.linkedin.com/in/igor-nasimento)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-a60099?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_igornalves_/?hl=pt-br)](https://instagram.com/_igornalves_)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-a60099?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/oigortech/?hl=pt-br)](https://instagram.com/oigortech)
