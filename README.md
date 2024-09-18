@@ -2,13 +2,13 @@
   <strong> Hello, World!✌🌎 </strong>
 </h2>
 
-<div align="center" ><img width="100%" height="100%" style="object-fit: cover;" src="download.jpeg" alt="" /></div>
+<div align="center" ><img width="100%" height="100%" style="object-fit: cover;" src="code.jpeg" alt="" /></div>
 
 </br>
 
 <p align="left"><strong>Hi 👋! My name is Igor Nascimento and I'm a Web Developer from Brazil.</strong></p>
 
-<img src="f14a324d-b87b-4ff2-bf3b-a7da22151516-removebg-preview.png" alt="minha logo" min-width="156px" max-width="156px" width="156px" align="right">
+<img src="Paris___New_Typeface_by_Moshik_Nadav_Typography-removebg-preview.png" alt="minha logo" min-width="156px" max-width="156px" width="156px" align="right">
 
 <p align="left"> 
  <strong> Meu nome é Igor Nascimento , seja bem vindo ao meu Github. </strong>
