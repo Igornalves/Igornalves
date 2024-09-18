@@ -8,7 +8,7 @@
 
 <p align="left"><strong>Hi 👋! My name is Igor Nascimento and I'm a Web Developer from Brazil.</strong></p>
 
-<img src="Paris___New_Typeface_by_Moshik_Nadav_Typography-removebg-preview.png" alt="minha logo" min-width="156px" max-width="156px" width="156px" align="right">
+<img src="360_F_375677878_T4fjvxu4FjWxKgeDkuscoxn1bYFgPuxi-removebg-preview.png" alt="minha logo" min-width="156px" max-width="156px" width="156px" align="right">
 
 <p align="left"> 
  <strong> Meu nome é Igor Nascimento , seja bem vindo ao meu Github. </strong>
