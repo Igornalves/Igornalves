@@ -2,7 +2,7 @@
   <strong> Hello, World!✌🌎 </strong>
 </h2>
 
-<div align="center" ><img width="600px" height="335px" style="object-fit: cover;" src="code.jpeg" alt="" /></div>
+<div align="center" ><img width="100%" height="100%" style="object-fit: cover;" src="Banner para github .png" alt="" /></div>
 
 </br>
 
@@ -106,7 +106,7 @@
 
 <p><strong>Meu Github</strong></p>
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=Igornalves&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Igornalves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Igornalves&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -114,6 +114,6 @@
 
 #
 
-<div align="left">
+<div align="center">
    <img src="https://warcontent.com/wp-content/uploads/2020/03/frases-inspiradoras-para-desenvolvedores-5.jpg.webp" height="180" alt="frases dev" /> <br>
 </div>
