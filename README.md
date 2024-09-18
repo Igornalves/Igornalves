@@ -27,31 +27,31 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="42" alt="html5 logo"  />
-  <img width="12" />
+  <!-- <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=css" height="42" alt="css3 logo"  />
-  <img width="12" />
+  <!-- <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=javascript" height="42" alt="javascript logo"  />
-  <img width="12" />
+  <!-- <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=typescript" height="42" alt="typescript logo"  />
-  <img width="12" />
+  <!-- <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=react" height="42" alt="react logo"  />
-  <img width="12" />
+  <!-- <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="java logo"  />
-  <img width="12" />
+  <!-- <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
-  <img width="12" />
+  <!-- <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring logo"  />
-  <img width="12" />
+  <!-- <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=python" height="42" alt="python logo"  />
-  <img width="12" />
+  <!-- <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=django" height="42" alt="django logo"  />
-  <img width="12" />
+  <!-- <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo"  />
-  <img width="12" />
+  <!-- <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=sqlite" height="42" alt="sqlite logo"  />
-  <img width="12" />
+  <!-- <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="mysql logo"  />
-  <img width="12" />
+  <!-- <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgres logo"  />
 </div>
 
@@ -61,21 +61,21 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="vscode logo"  />
-  <img width="12" />
+  <!-- <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
+  <!-- <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=figma" height="42" alt="figma logo"  />
-  <img width="12" />
+  <!-- <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="42" alt="dbeaver logo"  />
-  <img width="12" />
+  <!-- <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
+  <!-- <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
+  <!-- <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows11" />
-  <img width="12" />
+  <!-- <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
+  <!-- <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion logo"
 </div>
 
