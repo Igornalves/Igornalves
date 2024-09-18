@@ -2,7 +2,7 @@
   <strong> Hello, World!✌🌎 </strong>
 </h2>
 
-<div align="center" ><img width="100%" height="427px" style="object-fit: cover;" src="code.jpeg" alt="" /></div>
+<div align="center" ><img width="100%" height="335px" style="object-fit: cover;" src="code.jpeg" alt="" /></div>
 
 </br>
 
