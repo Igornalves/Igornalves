@@ -1,70 +1,119 @@
-<p align="left">
-<img  align="left" src="https://komarev.com/ghpvc/?username=Igornalves" alt="Igornalves" />
-<br>
+<h2 align="left" > 
+  <strong> Hello, World!✌🌎 </strong>
+</h2>
 
-<h1>Hi, people! ☕ </h1>
+<div align="center" ><img width="100%" height="100%" style="object-fit: cover;" src="download.jpeg" alt="" /></div>
+
+</br>
+
+<p align="left"><strong>Hi 👋! My name is Igor Nascimento and I'm a Web Developer from Brazil.</strong></p>
+
+<img src="f14a324d-b87b-4ff2-bf3b-a7da22151516-removebg-preview.png" alt="minha logo" min-width="156px" max-width="156px" width="156px" align="right">
+
+<p align="left"> 
+ <strong> Meu nome é Igor Nascimento , seja bem vindo ao meu Github. </strong>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Atomic+Age&weight=500&size=25&pause=1000&color=FF7F00&background=49A6FF00&center=true&vCenter=true&random=false&width=900&height=150&lines=Hi%2C+my+name+is+Igor+Nascimento+!!!;I+am+from+Brazil+!!!;I'm+a+fullstack+software+developer!!!)](https://git.io/typing-svg)
+<ul align="left" >
+    <li>🚩 Goias</li>
+    <li>💻 Computadores, games e carros</li>
+    <li>📚 Estudante de Analise e Desenvolvimento de Sistemas </li>
+    <li>🖥 Desenvolvedor Web <strong>Full Stack</strong></li>
+</ul>
 
-## GitHub Status 📚 
+#
+
+<p><strong>Minhas Tecnologias</strong></p>
 
 <div align="left">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=igornalves&show_icons=true&locale=en&theme=algolia" alt="Igornalves" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Igornalves&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Igornalves"/>
-<!-- <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=igornalves&theme=algolia" alt="Igornalves" /> -->
+  <img src="https://skillicons.dev/icons?i=html" height="42" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="42" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="42" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="42" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="42" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="42" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="42" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="42" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgres logo"  />
 </div>
 
-<h2>Technologies and Skills 💻</h2>
+#
 
-<div style="display: inline_block">
-  <img align="center" alt="HTML5" height="49" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="49" width="51" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="49" width="51" src="https://skillicons.dev/icons?i=javascript">
-  <img align="center" alt="TypeScript" height="49" width="51" src="https://skillicons.dev/icons?i=typescript">
-  <img align="center" alt="React" height="49" width="51" src="https://skillicons.dev/icons?i=react">
-  <img align="center" alt="C" height="49" width="51" src="https://skillicons.dev/icons?i=next">
-  <img align="center" alt="Python" height="49" width="51" src="https://skillicons.dev/icons?i=figma">
-  <img align="center" alt="django" height="49" width="51" src="https://skillicons.dev/icons?i=firebase">
-  <img align="center" alt="nodejs" height="49" width="51" src="https://skillicons.dev/icons?i=nodejs">
-  <img align="center" alt="SpringBoot" height="49" width="51" src="https://skillicons.dev/icons?i=spring">
-  <img align="center" alt="mysql" height="49" width="51" src="https://skillicons.dev/icons?i=mysql">
-  <img align="center" alt="PostgreSql" height="49" width="51" src="https://skillicons.dev/icons?i=postgres">  
-  <img align="center" alt="linux" height="49" width="51" src="https://skillicons.dev/icons?i=linux">
-  <img align="center" alt="git" height="49" width="51" src="https://skillicons.dev/icons?i=git">
-  <img align="center" alt="windows" height="49" width="51" src="https://skillicons.dev/icons?i=docker"> 
+<p><strong>Ferramenta que utilizo</strong></p>
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="42" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="42" alt="dbeaver logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows11" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion logo"
 </div>
 
-<!-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![java Script](https://img.shields.io/badge/JavaScript-FFCC00?style=for-the-badge&logo=javascript&logoColor=black)
-![node.js](https://img.shields.io/badge/Node.js-009900?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Type Script](https://img.shields.io/badge/typescript-0048d7?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-CC0000.svg?style=for-the-badge&logo=Java&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/spring_boot-009900.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![python](https://img.shields.io/badge/python-FFCC00?style=for-the-badge&logo=python&logoColor=0015d7)
-![django](https://img.shields.io/badge/django-006600?style=for-the-badge&logo=django&logoColor=white)
-![DBeaver](https://img.shields.io/badge/dbeaver-855E42.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-0048d9?style=for-the-badge&logo=mysql&logoColor=white)
-![postgreSQL](https://img.shields.io/badge/postgresql-023E73?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0015d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![linux](https://img.shields.io/badge/linux-F6C904.svg?style=for-the-badge&logo=linux&logoColor=black)
-![windows](https://img.shields.io/badge/windows-035AA9.svg?style=for-the-badge&logo=windows&logoColor=white) -->
-<!-- ![Apache Maven](https://img.shields.io/badge/Apache_Maven-993366.svg?style=for-the-badge&logo=ApacheMaven&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-84A650.svg?style=for-the-badge&logo=Hibernate&logoColor=white) -->
+#
 
-## Contribution Chart in Repositories 👨‍💻
-<p align="left">
-    <a>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=igornalves&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
-    </a>
-</p>
+  <p><strong>Entre em contato comigo</strong></p>
 
-<h2>Contacts 📞</h2> 
+<div align="left">
+  <a href="www.linkedin.com/in/igor-nasimento" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
+  <a href="https://www.instagram.com/odevigor/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo" style="display: inline-block;" /></a>
+</div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0048d7?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-nasimento)](https://www.linkedin.com/in/igor-nasimento)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-a60099?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/oigortech/?hl=pt-br)](https://instagram.com/oigortech)
+#
+
+<p align="left"><strong>Formação Acadêmica</strong></p>
+
+<div>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTryBuLV6tbh4Bn0aVVI2Lk0aQMxelm1zoEA&s" alt="Uninassau Logo"
+  min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
+  <br/>
+
+  **Tecnólogo em Análise e Desenvolvimento de Sistemas** \
+  [**UNINASSAU**](https://www.uninassau.edu.br/) • Centro Universitário de Anápolis • 4° Período
+  <br/>
+</div>
+
+#
+
+<p><strong>Meu Github</strong></p>
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=Igornalves&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Igornalves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Igornalves&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+#
+
+<div align="left">
+   <img src="https://warcontent.com/wp-content/uploads/2020/03/frases-inspiradoras-para-desenvolvedores-5.jpg.webp" height="180" alt="frases dev" /> <br>
+</div>
