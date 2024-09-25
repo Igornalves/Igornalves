@@ -15,7 +15,7 @@
 </p>
 
 <ul align="left" >
-    <li>🚩 Goias</li>
+    <li>🚩 Brasil</li>
     <li>💻 Computadores, games e carros</li>
     <li>📚 Estudante de Analise e Desenvolvimento de Sistemas </li>
     <li>🖥 Desenvolvedor Web <strong>Full Stack</strong></li>
@@ -41,12 +41,10 @@
   <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring logo"  />
-  <img width="8" />
+  <!-- <img width="8" />
   <img src="https://skillicons.dev/icons?i=python" height="42" alt="python logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=django" height="42" alt="django logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="42" alt="django logo"  /> -->
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="42" alt="sqlite logo"  />
   <img width="8" />
@@ -67,6 +65,8 @@
   <img src="https://skillicons.dev/icons?i=figma" height="42" alt="figma logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="42" alt="dbeaver logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="8" />
