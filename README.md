@@ -41,8 +41,8 @@
   <img src="https://skillicons.dev/icons?i=dart" height="42" alt="dart logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=flutter" height="42" alt="flutter logo"  />
-  <img src="https://skillicons.dev/icons?i=firebase" height="42" alt="firebase logo"  />
   <img width="8" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="42" alt="firebase logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
   <img width="8" />
@@ -52,7 +52,6 @@
   <img src="https://skillicons.dev/icons?i=python" height="42" alt="python logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=django" height="42" alt="django logo"  /> -->
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgres logo"  />
   <img width="8" />
   <!-- <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="mysql logo"  />
