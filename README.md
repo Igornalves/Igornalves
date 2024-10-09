@@ -36,7 +36,11 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=react" height="42" alt="react logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="java logo"  />
+  <!-- <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="java logo"  />
+  <img width="8" /> -->
+  <img src="https://skillicons.dev/icons?i=dart" height="42" alt="dart logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="42" alt="flutter logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
   <img width="8" />
