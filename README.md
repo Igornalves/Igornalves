@@ -11,18 +11,18 @@
 <img src="360_F_375677878_T4fjvxu4FjWxKgeDkuscoxn1bYFgPuxi-removebg-preview.png" alt="minha logo" min-width="156px" max-width="156px" width="156px" align="right">
 
 <p align="left"> 
- <strong> Meu nome é Igor Nascimento , seja bem vindo ao meu Github. </strong>
+ <strong>My name is Igor Nascimento, welcome to my Github.</strong>
 </p>
 
 <ul align="left" >
     <li>🚩 Brasil</li>
     <li>💻 Computadores, games e carros</li>
-    <li>🖥 Desenvolvedor Web <strong>Full Stack</strong></li>
+    <li>🖥 <strong>Software Engineer</strong></li>
 </ul>
 
 #
 
-<p><strong>Minhas Tecnologias</strong></p>
+<p><strong>My Technologies</strong></p>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="42" alt="html5 logo"  />
@@ -51,7 +51,7 @@
 
 #
 
-<p><strong>Ferramenta que utilizo</strong></p>
+<p><strong>Tool I use</strong></p>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="vscode logo"  />
@@ -77,7 +77,7 @@
 
 #
 
-  <p><strong>Entre em contato comigo</strong></p>
+  <p><strong>Contact me</strong></p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/igor-nasimento" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
@@ -85,12 +85,12 @@
 
 #
 
-<p align="left"><strong>Formação Acadêmica</strong></p>
+<p align="left"><strong>Academic Training</strong></p>
 
 <div>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTryBuLV6tbh4Bn0aVVI2Lk0aQMxelm1zoEA&s" alt="Uninassau Logo"
   min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
-  <br/>
+  
   
   **Tecnólogo em Análise e Desenvolvimento de Sistemas** \
   [**UNINASSAU**](https://www.uninassau.edu.br/) • Centro Universitário de Anápolis • 4° Período
@@ -99,16 +99,10 @@
 
 #
 
-<p><strong>Meu Github</strong></p>
+<p><strong>My Github</strong></p>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Igornalves&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="161" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Igornalves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Igornalves&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="160" alt="languages graph"  />
-</div>
-
-#
-
-<div align="center">
-   <img src="https://warcontent.com/wp-content/uploads/2020/03/frases-inspiradoras-para-desenvolvedores-5.jpg.webp" height="180" alt="frases dev" /> <br>
 </div>
