@@ -92,8 +92,8 @@
   min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
   
   
-  **Tecnólogo em Análise e Desenvolvimento de Sistemas** \
-  [**UNINASSAU**](https://www.uninassau.edu.br/) • Centro Universitário de Anápolis • 4° Período
+  **Technologist in Systems Analysis and Development** \
+  [**UNINASSAU**](https://www.uninassau.edu.br/) • Anápolis University Center • 4° Período
   <br/>
 </div>
 
