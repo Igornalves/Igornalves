@@ -17,7 +17,6 @@
 <ul align="left" >
     <li>🚩 Brasil</li>
     <li>💻 Computadores, games e carros</li>
-    <li>📚 Estudante de Analise e Desenvolvimento de Sistemas </li>
     <li>🖥 Desenvolvedor Web <strong>Full Stack</strong></li>
 </ul>
 
@@ -36,21 +35,11 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=react" height="42" alt="react logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=dart" height="42" alt="dart logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="42" alt="flutter logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="42" alt="firebase logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="node logo"  />
+  <img src="https://skillicons.dev/icons?i=next" height="42" alt="firebase logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=python" height="42" alt="python logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=django" height="42" alt="django logo"  /> 
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgres logo"  />
   <img width="8" />
@@ -92,7 +81,6 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/igor-nasimento" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
-  <a href="https://www.instagram.com/odevigor/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo" style="display: inline-block;" /></a>
 </div>
 
 #
@@ -103,7 +91,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTryBuLV6tbh4Bn0aVVI2Lk0aQMxelm1zoEA&s" alt="Uninassau Logo"
   min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
   <br/>
-
+  
   **Tecnólogo em Análise e Desenvolvimento de Sistemas** \
   [**UNINASSAU**](https://www.uninassau.edu.br/) • Centro Universitário de Anápolis • 4° Período
   <br/>
