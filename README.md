@@ -85,20 +85,6 @@
 
 #
 
-<p align="left"><strong>Academic Training</strong></p>
-
-<div>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTryBuLV6tbh4Bn0aVVI2Lk0aQMxelm1zoEA&s" alt="Uninassau Logo"
-  min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
-  
-  
-  **Technologist in Systems Analysis and Development** \
-  [**UNINASSAU**](https://www.uninassau.edu.br/) • Anápolis University Center • 4° Período
-  <br/>
-</div>
-
-#
-
 <p><strong>My Github</strong></p>
 
 <div align="center">
