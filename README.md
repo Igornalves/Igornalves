@@ -6,7 +6,7 @@
 
 </br>
 
-<p align="left"><strong>Hi 👋! My name is Igor Nascimento and I'm a Software Engineer from Brazil.</strong></p>
+<p align="left"><strong>Hi 👋! My name is Igor Nascimento and I'm a Software Developer from Brazil.</strong></p>
 
 <img src="360_F_375677878_T4fjvxu4FjWxKgeDkuscoxn1bYFgPuxi-removebg-preview.png" alt="minha logo" min-width="156px" max-width="156px" width="156px" align="right">
 
@@ -17,7 +17,7 @@
 <ul align="left" >
     <li>🚩 Brasil</li>
     <li>💻 Computadores, games e carros</li>
-    <li>🖥 <strong>Software Engineer</strong></li>
+    <li>🖥 <strong>Software Developer</strong></li>
 </ul>
 
 <h2><strong>My Technologies</strong></h2>
