@@ -35,16 +35,22 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=next" height="42" alt="react logo"  />
   <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="42" alt="react logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=sass" height="42" alt="react logo"  />
+  <img width="8" />
 </div>
 
 **<p>Back-End</p>**
   
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" height="42" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="42" alt="typescript logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="typescript logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=maven" height="42" alt="java logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring logo"  />
   <img width="8" />
@@ -111,4 +117,12 @@
   <img src="https://streak-stats.demolab.com?user=Igornalves&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="161" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Igornalves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Igornalves&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="160" alt="languages graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Igornalves&theme=radical" height="160" alt="languages graph"  />
 </div>
+
+#
+
+<div align="center" >
+    <img src="https://github-profile-trophy.vercel.app/?username=Igornalves&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+</div>
+  
