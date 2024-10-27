@@ -52,11 +52,9 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=maven" height="42" alt="java logo"  />
   <img width="8" />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="42" alt="typescript logo"  />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=python" height="42" alt="typescript logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=django" height="42" alt="typescript logo"  />
   <img width="8" />
 </div>
 
