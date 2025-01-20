@@ -16,7 +16,7 @@
 
 <ul align="left" >
     <li>🚩 Brasil</li>
-    <li>💻 Computadores, games e carros</li>
+    <li>💻 Computers, games and cars</li>
     <li>🖥 <strong>Software Developer</strong></li>
 </ul>
 
@@ -36,8 +36,6 @@
   <img src="https://skillicons.dev/icons?i=next" height="42" alt="react logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=tailwindcss" height="42" alt="react logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=sass" height="42" alt="react logo"  />
   <img width="8" />
 </div>
 
