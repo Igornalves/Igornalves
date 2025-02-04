@@ -1,6 +1,6 @@
-<h2 align="left" > 
-  <strong> Hi, Tech!👨‍💻 </strong>
-</h2>
+<h1 align="left" > 
+  <strong> Hey, Tech!👨‍💻 </strong>
+</h1>
 
 Let's Talk About the Computer Area
 
