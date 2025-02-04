@@ -16,7 +16,7 @@ Let's Talk About the Computer Area
 <img src="360_F_375677878_T4fjvxu4FjWxKgeDkuscoxn1bYFgPuxi-removebg-preview.png" alt="minha logo" min-width="156px" max-width="156px" width="156px" align="right">
 
 <p align="left"> 
- <strong>Welcome to my Github.</strong>
+ <strong> 🛣️ Welcome to my Github. 🎆</strong>
 </p>
 
 <ul align="left" >
@@ -29,7 +29,9 @@ Let's Talk About the Computer Area
 
 #
 
-<p><strong>My Statistics</strong></p>
+<h2 align="left" > 
+  <strong> My Statistics 📈 </strong>
+</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Igornalves&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="161" alt="streak graph"  />
