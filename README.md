@@ -1,103 +1,35 @@
 <h2 align="left" > 
-  <strong> Hello, World!✌🌎 </strong>
+  <strong> Hi, Tech!👨‍💻 </strong>
 </h2>
 
-<div align="center" ><img width="100%" height="100%" style="object-fit: cover;" src="Banner para github .png" alt="" /></div>
+Let's Talk About the Computer Area
 
-</br>
+---
 
-<p align="left"><strong>Hi 👋! My name is Igor Nascimento and I'm a Software Developer from Brazil.</strong></p>
+<!-- <div align="center" ><img width="100%" height="100%" style="object-fit: cover;" src="Banner para github .png" alt="" /></div> -->
+
+
+<h2 align="left" > 
+  <strong> About Me 💻 </strong>
+</h2>
 
 <img src="360_F_375677878_T4fjvxu4FjWxKgeDkuscoxn1bYFgPuxi-removebg-preview.png" alt="minha logo" min-width="156px" max-width="156px" width="156px" align="right">
 
 <p align="left"> 
- <strong>My name is Igor Nascimento, welcome to my Github.</strong>
+ <strong>Welcome to my Github.</strong>
 </p>
 
 <ul align="left" >
-    <li>🚩 Brasil</li>
-    <li>💻 Computers, games and cars</li>
-    <li>🖥 <strong>Software Developer</strong></li>
+    <li>Code any kind of thing;</li>
+    <li>Learning many things that I can share with others in the future.</li>
+    <li>I like doing bodybuilding and programming</li>
+    <li>I try to balance things with the life of studies and training</li>
+    <li>I like to always be informed about the Tech world and other areas</li>
 </ul>
 
-<h2><strong>My Technologies</strong></h2>
-
-**<p>Front-End</p>**
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="42" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=css" height="42" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="42" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=react" height="42" alt="react logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=next" height="42" alt="react logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=tailwindcss" height="42" alt="react logo"  />
-  <img width="8" />
-</div>
-
-**<p>Back-End</p>**
-  
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=express" height="42" alt="typescript logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="typescript logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=python" height="42" alt="typescript logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=django" height="42" alt="java logo"  />
-  <img width="8" />
-</div>
-
-**<p>Databases</p>**
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgres logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="mysql logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="42" alt="mysql logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="42" alt="mysql logo"  />
-  <img width="8" />
-</div>
-
 #
 
-<p><strong>Tool I use</strong></p>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="vscode logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=figma" height="42" alt="figma logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="42" alt="dbeaver logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows11" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="adobephotoshop logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="Notion logo">
-</div>
-
-#
-
-<p><strong>My Github</strong></p>
+<p><strong>My Statistics</strong></p>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Igornalves&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="161" alt="streak graph"  />
@@ -112,3 +44,13 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Igornalves&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
 </div>
   
+
+<h2 align="left" > 
+  <strong> How to reach me 🔗 </strong>
+</h2>
+
+<div align="center">
+    <a target='_blank' href="https://linkedin.com/in/igor-nasimento">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
