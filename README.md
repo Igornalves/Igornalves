@@ -58,9 +58,10 @@ Possuo também habilidades em front-end 🎨 com React.js ⚛️ e TypeScript �
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Igornalves&locale=pt_BR&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="161" alt="gráfico de streak"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Igornalves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt_BR&hide_border=false&order=1" height="160" alt="gráfico de estatísticas"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Igornalves&locale=pt_BR&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="gráfico de linguagens"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igornalves&layout=compact&theme=radical" height="160" alt="gráfico de estatísticas"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Igornalves&show_icons=true&theme=radical" height="150" alt="gráfico de linguagens"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Igornalves&theme=radical" height="150" alt="detalhes do perfil"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Igornalves&theme=radical&utcOffset=8" height="150" alt="graficos de commits"  />
 </div>
 
 #
