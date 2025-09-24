@@ -53,7 +53,7 @@ Tenho habilidades em front-end com React.js e TypeScript, o que me permite atuar
 </div>
 
 <h2 align="left"> 
-  <strong> Minhas Estatísticas 📈 </strong>
+  <strong> Minhas Estatísticas </strong>
 </h2>
 
 <div align="center">
