@@ -1,52 +1,52 @@
 <h1 align="left">
-  <strong> Olá, Eu sou Igor Nascimento!👨‍💻 </strong>
+  <strong> Olá, Eu sou Igor Nascimento! </strong>
 </h1>
 
-💻 Vamos falar sobre a área da Computação 🚀
-Sou desenvolvedor back-end, com experiência em Spring Boot ☕, Node.js 🌿, SQL 🗄️ e Docker 🐳, focado em APIs 🔗 e bancos de dados 📊.
-Possuo também habilidades em front-end 🎨 com React.js ⚛️ e TypeScript 📘, o que me permite atuar no ciclo completo das aplicações 🔄, unindo desempenho no servidor ⚡ e interfaces funcionais 🖥️.
+Vamos falar sobre a área da Computação
+Sou desenvolvedor back-end, com experiência em Spring Boot, Node.js, SQL e Docker, focado em APIs e bancos de dados.
+Tenho habilidades em front-end com React.js e TypeScript, o que me permite atuar no ciclo completo das aplicações, unindo desempenho no servidor e interfaces funcionais .
 
 <h2 align="left"> 
-  <strong> Sobre Mim 💻 </strong>
+  <strong> Sobre Mim </strong>
 </h2>
 
 <img src="360_F_375677878_T4fjvxu4FjWxKgeDkuscoxn1bYFgPuxi-removebg-preview.png" alt="minha logo" min-width="156px" max-width="156px" width="156px" align="right">
 
 <p align="left"> 
- <strong> 🛣️ Bem-vindo ao meu GitHub 🎆</strong>
+ <strong>Bem-vindo ao meu GitHub</strong>
 </p>
 
 <ul align="left">
-    <li>💡 Desenvolvedor com foco em soluções inovadoras e eficientes.</li>
-    <li>📚 Em constante aprendizado, buscando aprimorar habilidades e compartilhar conhecimento.</li>
-    <li>💪 Equilibrando disciplina entre programação, estudos e vida pessoal.</li>
-    <li>🎯 Comprometido com o crescimento na área de desenvolvimento de software.</li>
-    <li>🌍 Entusiasta de tecnologia, educação e tendências digitais.</li>
+    <li> Desenvolvedor com foco em soluções inovadoras e eficientes.</li>
+    <li> Em constante aprendizado, buscando aprimorar habilidades e compartilhar conhecimento.</li>
+    <li> Equilibrando disciplina entre programação, estudos e vida pessoal.</li>
+    <li> Comprometido com o crescimento na área de desenvolvimento de software.</li>
+    <li> Entusiasta de tecnologia, educação e tendências digitais.</li>
 </ul>
 
 
 ---
 
 <h2 align="left">
-  <strong>🛠️ Minhas Ferramentas e Tecnologias</strong>
+  <strong>Minhas Ferramentas e Tecnologias</strong>
 </h2>
 <br>
 
 <div align="center">
 
-  <p><b>🚀 Tecnologias Front-end</b></p>
+  <p><b>Tecnologias Front-end</b></p>
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,typescript,nextjs,tailwind,figma)](https://skillicons.dev)
 
-  <p><b>⚙️ Tecnologias Back-end</b></p>
+  <p><b>Tecnologias Back-end</b></p>
 
   [![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,python,django)](https://skillicons.dev)
 
-  <p><b>🗄️ Banco de Dados</b></p>
+  <p><b>Banco de Dados</b></p>
 
   [![My Skills](https://skillicons.dev/icons?i=sqlite,postgresql,mysql,firebase)](https://skillicons.dev)
 
-  <p><b>🔧 Outras Tecnologias</b></p>
+  <p><b>Outras Tecnologias</b></p>
 
   [![My Skills](https://skillicons.dev/icons?i=git,docker,discord,vscode,windows,linux)](https://skillicons.dev)
 
@@ -73,7 +73,7 @@ Possuo também habilidades em front-end 🎨 com React.js ⚛️ e TypeScript �
 #
 
 <h2 align="left"> 
-  <strong> Como me encontrar 🔗 </strong>
+  <strong> Como me encontrar </strong>
 </h2>
 
 <div align="center">
