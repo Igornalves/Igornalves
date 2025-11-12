@@ -2,15 +2,19 @@
   <strong> Olá, Eu sou Igor Nascimento! </strong>
 </h1>
 
-Vamos falar sobre a área da Computação
-Sou desenvolvedor back-end, com experiência em Spring Boot, Node.js, SQL e Docker, focado em APIs e bancos de dados.
-Tenho habilidades em front-end com React.js e TypeScript, o que me permite atuar no ciclo completo das aplicações, unindo desempenho no servidor e interfaces funcionais .
+<img src="360_F_375677878_T4fjvxu4FjWxKgeDkuscoxn1bYFgPuxi-removebg-preview.png" alt="minha logo" min-width="156px" max-width="156px" width="156px" align="right">
 
-<h2 align="left"> 
+<p align="justify"> Sou um profissional em desenvolvimento, com experiência em
+áreas administrativas e conhecimento crescente em tecnologia.
+Tenho habilidades em automação de processos, desenvolvimento
+back-end e integração de dados. Busco unir minha vivência
+prática à tecnologia para entregar soluções eficientes e
+organizadas. Dedicado e motivado a enfrentar novos desafios. </p>
+
+<!-- <h2 align="left"> 
   <strong> Sobre Mim </strong>
 </h2>
 
-<img src="360_F_375677878_T4fjvxu4FjWxKgeDkuscoxn1bYFgPuxi-removebg-preview.png" alt="minha logo" min-width="156px" max-width="156px" width="156px" align="right">
 
 <p align="left"> 
  <strong>Bem-vindo ao meu GitHub</strong>
@@ -22,10 +26,10 @@ Tenho habilidades em front-end com React.js e TypeScript, o que me permite atuar
     <li> Equilibrando disciplina entre programação, estudos e vida pessoal.</li>
     <li> Comprometido com o crescimento na área de desenvolvimento de software.</li>
     <li> Entusiasta de tecnologia, educação e tendências digitais.</li>
-</ul>
+</ul> -->
 
 
----
+<!-- --- -->
 
 <h2 align="left">
   <strong>Minhas Ferramentas e Tecnologias</strong>
@@ -64,13 +68,13 @@ Tenho habilidades em front-end com React.js e TypeScript, o que me permite atuar
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Igornalves&theme=radical" height="150" alt="detalhes do perfil"  />
 </div>
 
-#
+<!-- #
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Igornalves&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
 </div>
 
-#
+# -->
 
 <h2 align="left"> 
   <strong> Como me encontrar </strong>
