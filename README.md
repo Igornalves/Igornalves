@@ -4,7 +4,7 @@
 
 <img src="360_F_375677878_T4fjvxu4FjWxKgeDkuscoxn1bYFgPuxi-removebg-preview.png" alt="minha logo" min-width="156px" max-width="156px" width="156px" align="right">
 
-<p align="justify"> Sou um profissional em desenvolvimento, com experiência em
+<p align="left"> Sou um profissional em desenvolvimento, com experiência em
 áreas administrativas e conhecimento crescente em tecnologia.
 Tenho habilidades em automação de processos, desenvolvimento
 back-end e integração de dados. Busco unir minha vivência
